@@ -10,13 +10,13 @@ Data set contains of 4 tables: Employee, Employee_working_office, Working_office
 
 # Expected output
 
-- List of countries and the number of ‘experienced employees’ of each of the countries.
-- Employees should be ordered by number, descending.
+- List of countries and the number of ‘experienced employees’ of each of the countries;
+- Employees should be ordered by number, descending;
 - If two or more countries have the same number of experienced employees, they should be ordered by country name (A-Z).
 
 # Data modification
 
-- Data exploration have showed that a null value was imported into Employee_working_office table’s Start_date column in the row with Employee_Id = 10208059.
+- Data exploration have showed that a null value was imported into Employee_working_office table’s Start_date column in the row with Employee_Id = 10208059;
 - Letter case was modified too for Norway country id values from “No” into “NO” in country table. 
 
 # Structure of the query
