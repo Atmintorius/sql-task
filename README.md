@@ -1,4 +1,4 @@
-# About data set
+# About the data set
 
 Data set contains of 4 tables: Employee, Employee_working_office, Working_office, Country 
 
